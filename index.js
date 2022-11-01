@@ -91,7 +91,7 @@ Do the following:
  3. Return the newly calculated age
 */
 
-function dogYears(human, dogAge ){
+function dogYears(humanAge, dogAge ){
   let x = humanAge * dogAge;
   return x;
 }
